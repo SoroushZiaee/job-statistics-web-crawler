@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#results
+results/
+temp_folder/
+
+#zipfiles
+*.zip
+
+#chromedriver
+chromedriver
+chromedriver_mac64/
